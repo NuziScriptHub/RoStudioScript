@@ -1,0 +1,14 @@
+-- // Plr
+hafiez1234567890
+debugtestname
+
+-- // Chat
+GameLogger 1.0
+Game Name : {game}
+Game Owner : {owner}
+Player : ({current}/{max})
+R6 : {r6}
+(Click To Join)({link})
+
+-- // Webhook
+https://discord.com/api/webhooks/your_webhook_here
